@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 25px;
+  height: 25px;
+}
+
+table,
+table td,
+table th {
+  padding-top: 100 px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+}
+
+select {
+  float: right;
+}
